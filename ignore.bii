@@ -1,0 +1,6 @@
+cmake/*
+doc/*
+test/*
+util/*
+CMakeLists.txt
+CTestConfig.cmake
